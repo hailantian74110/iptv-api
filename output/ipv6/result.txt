@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-24 07:09:27,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-07-24 20:02:07,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2583,6 +2583,7 @@ CCTV-5+,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 快乐垂钓,http://gslbmgsplive.miguvideo.com/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=ad6ff68e172c6b1ef85fceaee7d0f8be&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260722062052&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=39.103.188.159&SecurityKey=20260722062052&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=e2436ccaf3fea6c8f3e73ae368a52330&ddCalcu=0e32v34a23a56aac8c6a3fe3af3e7ae63cf8&sv=10004&ct=android
 快乐垂钓,https://iptv.catvod.com/migu?id=961930263&token=152f2c16f43320a3372a46ca319af6f3
 快乐垂钓,https://iptv.catvod.com/migu?id=961930263&token=bf7bc04a621c3924640608c244e32d3c
+快乐垂钓,http://gslbmgsplive.miguvideo.com/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=9f25438d1a63c0eb42a17d11970c6da0&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260724062053&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=39.103.188.159&SecurityKey=20260724062053&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=18eb9bfa8473d5695fde8688ef022602&ddCalcu=2108v6ea2ba29a0bffea88846783edd5f659&sv=10004&ct=android
 JJ斗地主,https://live.iill.top/douyin/685317364746
 
 🪁动画频道,#genre#
